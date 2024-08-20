@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "poka",
+      "body": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "body": 200
+    },
+    {
+      "id": "3",
+      "title": "a title",
+      "body": 100
+    },
+    {
+      "id": "4",
+      "title": "another title",
+      "body": 200
+    },
+    {
+      "id": "5",
+      "title": "a title",
+      "body": 100
+    },
+    {
+      "id": "6",
+      "title": "another title",
+      "body": 200
+    },
+    {
+      "id": "7",
+      "title": "a title",
+      "body": 100
+    },
+    {
+      "id": "8",
+      "title": "another title",
+      "body": 200
+    },
+    {
+      "id": "9",
+      "title": "a title",
+      "body": 100
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
